@@ -264,7 +264,7 @@ $(function(){
 
 		else if(status === "inviteSomebody"){
 
-			
+
 			$("#link").text(window.location.href);
 
 			onConnect.fadeOut(1200, function(){
