@@ -13,8 +13,6 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 	```
 	$ npm install
 	```
-2. Edit configuration file in _app/config/config.json_ with your credentials(see [Setup Configurations](#configurations)).
-
 3. Start the application
 
 	```
